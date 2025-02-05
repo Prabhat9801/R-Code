@@ -1,5 +1,4 @@
 # Q(1)- Basic mathematical compution : Square,square root , exponential
-
 x<-5
 y<-6
 x+y
@@ -11,6 +10,11 @@ x*x
 sqrt(x)
 x^y
 exp(x)  
+
+
+
+
+
 
 
 # Q(2)- Create an object X that stores the value then overwrite the object in by itself divided by Y. Print the result to the console.
