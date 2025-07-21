@@ -15,6 +15,7 @@ y<-1:10
 y
 dim(y)<-c(2,5)
 y
+
 # rbind()= for binding the rows,cbind()= for bind the columns
 q<-1:10
 z<-11:20
